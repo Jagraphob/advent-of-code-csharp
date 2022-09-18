@@ -1,0 +1,15 @@
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/advent-of-code.csproj.AssemblyReference.cache
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/advent-of-code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/advent-of-code.AssemblyInfoInputs.cache
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/advent-of-code.AssemblyInfo.cs
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/advent-of-code.csproj.CoreCompileInputs.cache
+/Users/toh/Documents/Repo/advent-of-code/bin/Debug/net6.0/advent-of-code
+/Users/toh/Documents/Repo/advent-of-code/bin/Debug/net6.0/advent-of-code.deps.json
+/Users/toh/Documents/Repo/advent-of-code/bin/Debug/net6.0/advent-of-code.runtimeconfig.json
+/Users/toh/Documents/Repo/advent-of-code/bin/Debug/net6.0/advent-of-code.dll
+/Users/toh/Documents/Repo/advent-of-code/bin/Debug/net6.0/advent-of-code.pdb
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/advent-of-code.dll
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/refint/advent-of-code.dll
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/advent-of-code.pdb
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/advent-of-code.genruntimeconfig.cache
+/Users/toh/Documents/Repo/advent-of-code/obj/Debug/net6.0/ref/advent-of-code.dll
